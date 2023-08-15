@@ -1,5 +1,5 @@
 ### Boas vindas aos meus perfil 💙
-lindoeste4555
+
 Meu nome é Henrique almeida
 
 - Estou estudando na [Alura](https://www.alura.com.br)
